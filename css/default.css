@@ -75,7 +75,7 @@ body {
     height: 400px;
     color: #FFF;
     font-family: "Consolas", "Monaco", "Bitstream Vera Sans Mono", "Courier New", "sans-serif";
-    font-size: 12px;
+    font-size: 14px;
     margin-right: 70px;
 }
 
@@ -97,7 +97,8 @@ body {
 }
 
 #code .comments {
-    color: #000
+    color: #000;
+    background: #fff;
 }
 
 #copyright {
