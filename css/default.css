@@ -70,13 +70,12 @@ body {
 
 #code {
     float: left;
-    width: 100%;
+    width: 95%;
     margin-top: 60px !important;
     height: 400px;
-    color: #FFF;
     font-family: "Consolas", "Monaco", "Bitstream Vera Sans Mono", "Courier New", "sans-serif";
     font-size: 14px;
-    margin-right: 70px;
+    margin-right: 10px;
 }
 
 #code .string {
@@ -98,7 +97,7 @@ body {
 
 #code .comments {
     color: #000;
-    background: #fff;
+    background: #ffe;
 }
 
 #copyright {
